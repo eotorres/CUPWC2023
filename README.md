@@ -11,6 +11,4 @@ Que venha a Copa do Mundo Feminina 2023 e que possamos desfrutar de momentos emo
 
 Participei de um minicurso realizado pela FLAI, onde utilizei o mesmo conceito para este desenvolvimento.
 
-Nos comentários irei adicionar alguns prints.
 
-#CopaDoMundoFeminina #Python #Streamlit #DataScience #Futebol #EstimativaDeResultados
