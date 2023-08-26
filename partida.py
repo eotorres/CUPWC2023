@@ -197,7 +197,7 @@ if pagina == 'Tabelas':
                     'Simulações da Copa', 
                     'Probabilidades por Etapa',
                     'Avanço por Etapa',
-                    'Probabilidades Finais',
+                    #'Probabilidades Finais',
                     'Tabela de Jogos',
                     'Vencedores']
     
@@ -212,8 +212,8 @@ if pagina == 'Tabelas':
     elif a == 'Probabilidades por Etapa':
         st.write(dados2)  
         
-    elif a == 'Probabilidades Finais':
-        st.write(dados4) 
+    #elif a == 'Probabilidades Finais':
+    #    st.write(dados4) 
         
     elif a == 'Avanço por Etapa':
         st.write(dados3) 
